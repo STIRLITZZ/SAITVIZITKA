@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MfXjFnUUIAafsgD9q4RdF42LAnSAjPzW5FkxjHgBXW8=",
+  "Hash": "n/Zynz4xD7Ey4K2Bxx9IuCJehYmwrGUvxc8arYIvNKo=",
   "Source": "BlazorApp1",
   "BasePath": "_content/BlazorApp1",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "492w8oon06",
-      "Integrity": "mISTSYONz7PXgCHfGeyQ8yX+prdvUVUxbkzF+rcBmwA=",
+      "Fingerprint": "4zsenks1im",
+      "Integrity": "MNE6EZnfGv1Y3oo54lHnx7SddwXIWuNTV+n3EnW/pE8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -143,6 +143,27 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\favicoe.png",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\",
+      "BasePath": "_content/BlazorApp1",
+      "RelativePath": "favicoe#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicoe.png"
+    },
+    {
       "Identity": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
       "SourceId": "BlazorApp1",
       "SourceType": "Discovered",
@@ -157,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ifv42okdf2",
-      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "Fingerprint": "vmp1i0j57j",
+      "Integrity": "+QXpiaYswTOGO2B3abtzzQJGcG14NqNABX1Wkk0KtvU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
@@ -481,7 +502,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "app.492w8oon06.css",
+      "Route": "app.4zsenks1im.css",
       "AssetFile": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -491,7 +512,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10499"
+          "Value": "11563"
         },
         {
           "Name": "Content-Type",
@@ -499,11 +520,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mISTSYONz7PXgCHfGeyQ8yX+prdvUVUxbkzF+rcBmwA=\""
+          "Value": "\"MNE6EZnfGv1Y3oo54lHnx7SddwXIWuNTV+n3EnW/pE8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 13:35:47 GMT"
+          "Value": "Sun, 09 Mar 2025 15:40:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -513,7 +534,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "492w8oon06"
+          "Value": "4zsenks1im"
         },
         {
           "Name": "label",
@@ -521,7 +542,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mISTSYONz7PXgCHfGeyQ8yX+prdvUVUxbkzF+rcBmwA="
+          "Value": "sha256-MNE6EZnfGv1Y3oo54lHnx7SddwXIWuNTV+n3EnW/pE8="
         }
       ]
     },
@@ -536,7 +557,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10499"
+          "Value": "11563"
         },
         {
           "Name": "Content-Type",
@@ -544,11 +565,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mISTSYONz7PXgCHfGeyQ8yX+prdvUVUxbkzF+rcBmwA=\""
+          "Value": "\"MNE6EZnfGv1Y3oo54lHnx7SddwXIWuNTV+n3EnW/pE8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 13:35:47 GMT"
+          "Value": "Sun, 09 Mar 2025 15:40:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -558,7 +579,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mISTSYONz7PXgCHfGeyQ8yX+prdvUVUxbkzF+rcBmwA="
+          "Value": "sha256-MNE6EZnfGv1Y3oo54lHnx7SddwXIWuNTV+n3EnW/pE8="
         }
       ]
     },
@@ -973,8 +994,8 @@
       ]
     },
     {
-      "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
+      "Route": "favicoe.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\favicoe.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1009,7 +1030,7 @@
         },
         {
           "Name": "label",
-          "Value": "favicon.png"
+          "Value": "favicoe.png"
         },
         {
           "Name": "integrity",
@@ -1018,8 +1039,8 @@
       ]
     },
     {
-      "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
+      "Route": "favicoe.png",
+      "AssetFile": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\favicoe.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1051,6 +1072,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+QXpiaYswTOGO2B3abtzzQJGcG14NqNABX1Wkk0KtvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+QXpiaYswTOGO2B3abtzzQJGcG14NqNABX1Wkk0KtvU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.vmp1i0j57j.png",
+      "AssetFile": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+QXpiaYswTOGO2B3abtzzQJGcG14NqNABX1Wkk0KtvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vmp1i0j57j"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+QXpiaYswTOGO2B3abtzzQJGcG14NqNABX1Wkk0KtvU="
         }
       ]
     },
