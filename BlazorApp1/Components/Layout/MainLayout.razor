@@ -1,0 +1,96 @@
+﻿@inherits LayoutComponentBase
+
+<div @* class="page" *@>
+    @* <div class="sidebar">
+        <NavMenu />
+    </div> *@
+
+    <main>
+        <div class="container">
+            <nav class="nav-box">
+                <div class="nav-img">
+                    <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                        <img src=".//images/logotruck2alb2.png" class="logo" />
+                    </NavLink> 
+                </div>
+                <div class="nav-itemRIGHT">
+                    <div class="nav-item">
+                        <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                            <span class="bi bi-house-door-fill" aria-hidden="true"></span> Home
+                        </NavLink>
+                    </div>
+
+                    <div class="nav-item">
+                        <NavLink class="nav-link" href="servicii">
+                            <span class="bi bi-box-seam" aria-hidden="true"></span> Servicii
+                        </NavLink>
+                    </div>
+
+                    <div class="nav-item">
+                        <NavLink class="nav-link" href="despre">
+                            <span class="bi bi-info-circle" aria-hidden="true"></span> Despre noi
+                        </NavLink>
+                    </div>
+                    <div class="nav-item">
+                        <NavLink class="nav-link" href="contacte">
+                            <span class="bi bi-chat-dots" aria-hidden="true"></span> Contacte
+                        </NavLink>
+                    </div>
+                </div>
+                
+            </nav>
+        </div>
+
+        <article >
+            @Body
+
+
+        </article>
+
+        <footer>
+            <section class="footer_section">
+
+                <div class="box-down">
+                    <div class="info_contact">
+                        <h4>Address</h4>
+                        <div class="contact_link_box">
+                            <a href="https://maps.app.goo.gl/9zWc2K7Np2F2LRcd9">
+                                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                <span>Location</span>
+                            </a>
+                            <a href="">
+                                <i class="fa fa-phone" aria-hidden="true"></i>
+                                <span>Call +37376700369</span>
+                            </a>
+                            <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtsffVfmMPfJFvwDKcjklnzsvdZDZCblhRzKqWZlKJFNVlWwrWljDWQFgNsthtmvsRqqnV">
+                                <i class="fa fa-envelope" aria-hidden="true"></i>
+                                <span>disofitrans@gmail.com</span>
+                            </a>
+                            <a href="https://www.facebook.com/people/Disofi-Trans/100063441086258/?locale=sw_KE"><i class="fa fa-facebook"></i></a>
+                            <a href=""><i class="fa fa-viber"></i></a>
+                            <a href=""><i class="fa fa-whatsapp"></i></a>
+                            <a href=""><i class="fa fa-telegram"></i></a>
+                        </div>
+                    </div>
+                    <div class="info_social">
+                        
+                    </div>
+                   
+                    <div class="">
+                        <p>
+                            &copy; <span id="displayYear"></span> All Rights Reserved By DisofiTrans SRL
+                            @* <a href="https://html.design/"></a> *@
+                        </p>
+                    </div>
+                </div>
+            </section>
+        </footer>
+        
+    </main>
+</div>
+
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>

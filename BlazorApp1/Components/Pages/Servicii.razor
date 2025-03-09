@@ -1,0 +1,28 @@
+﻿@page "/servicii"
+@rendermode InteractiveServer
+
+<PageTitle>Servicii</PageTitle>
+
+<h1>Servicii</h1>
+
+<h2>Soluții complete de transport internațional de mărfuri</h2>
+<ul>
+    <li>Transport rutier internațional: Livrări rapide și sigure în Uniunea Europeană.</li>
+    <li>Parc auto modern: Camioane EURO5 și EURO6 dotate cu GPS.</li>
+    <li>Licențiere europeană (CEMT): Servicii conforme standardelor internaționale.</li>
+    <li>Transport de mărfuri speciale: Pentru mărfuri voluminoase sau cu cerințe speciale.</li>
+    <li>Consultanță în logistică: Soluții personalizate pentru optimizarea costurilor.</li>
+</ul>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}

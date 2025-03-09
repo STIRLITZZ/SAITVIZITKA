@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp1.g1vy5qfy3f.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\image.jpg",
+      "PackagePath": "staticwebassets\\images\\image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\imgineafon1.jpg",
+      "PackagePath": "staticwebassets\\images\\imgineafon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\imgineafon2.jpg",
+      "PackagePath": "staticwebassets\\images\\imgineafon2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\imgineafon3.jpg",
+      "PackagePath": "staticwebassets\\images\\imgineafon3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\imgineafon4.jpg",
+      "PackagePath": "staticwebassets\\images\\imgineafon4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\logotruck.png",
+      "PackagePath": "staticwebassets\\images\\logotruck.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\logotruck2.png",
+      "PackagePath": "staticwebassets\\images\\logotruck2.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\logotruck2alb1.png",
+      "PackagePath": "staticwebassets\\images\\logotruck2alb1.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\logotruck2alb2.png",
+      "PackagePath": "staticwebassets\\images\\logotruck2alb2.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\mountain1.png",
+      "PackagePath": "staticwebassets\\images\\mountain1.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\mountain2.png",
+      "PackagePath": "staticwebassets\\images\\mountain2.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\mountain31.png",
+      "PackagePath": "staticwebassets\\images\\mountain31.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\sky1.png",
+      "PackagePath": "staticwebassets\\images\\sky1.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\sky2.png",
+      "PackagePath": "staticwebassets\\images\\sky2.png"
+    },
+    {
+      "Id": "C:\\Users\\andro\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\newFile.js",
+      "PackagePath": "staticwebassets\\newFile.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApp1.props",
+      "PackagePath": "build\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp1.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp1.props",
+      "PackagePath": "buildTransitive\\BlazorApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
